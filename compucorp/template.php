@@ -7,10 +7,4 @@
 
 
 
-/**
- * Implements hook_theme().
- */
 
-/**
- * Implement hook_preprocess_page().
- */
