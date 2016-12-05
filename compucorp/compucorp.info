@@ -1,0 +1,21 @@
+name = Compucorp
+description = Compucorp theme.
+core = 7.x
+
+;Regions
+
+regions[header] = Header
+regions['help'] = Help
+regions['page_top'] = Page Top
+regions['page_bottom'] = Page Bottom
+regions[banner] = Banner
+regions[content] = Content
+regions[content-top] = Content Top
+regions[content-center] = Content Center
+regions[content-bottom] = Content Bottom
+regions[footer_social] = Footer Social
+regions[footer_bottom] = Footer Bottom
+
+;CSS
+stylesheets[all][] = css/style.css
+
